@@ -1,0 +1,300 @@
+{
+  "questions": [
+    {
+        "id": "1",
+        "title": "For Unwrapping Value Inside Optional What Should We Use?",
+        "answers" : [
+          {
+            "title" : "?",
+            "isSelected": false,
+            "isCorrect": false
+          },
+          {
+            "title" : "!",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "@",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "None Of These",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "The IDE Used In Swift Is",
+        "answers" : [
+          {
+            "title" : "Swiftc",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Gas",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Xcode",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "Ld",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "To Create Mutable Object __ Is Used",
+        "answers" : [
+          {
+            "title" : "Let",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Var",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "Both A&B",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "None",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Which Of The Following IOS Frameworks Is A Commonly Used Third Party Library?",
+        "answers" : [
+          {
+            "title" : "AVFoundation",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Audiotoolbox",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "AFNetwork",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "AVKit",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "To Create Contants In Swift We Use Keyword",
+        "answers" : [
+          {
+            "title" : "Conts",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Let",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "Contants",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "None Of Above",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Double Has A Precision Of At Least _ Decimal Digits In Swift.",
+        "answers" : [
+          {
+            "title" : "15",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "20",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "17",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "None of These",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "7",
+        "title": "First IOS Was Written In",
+        "answers" : [
+          {
+            "title" : "1984",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "1985",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "1986",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "1987",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "8",
+        "title": "Which Of The Following Is Incorrect Data Type In SWIFT ?",
+        "answers" : [
+          {
+            "title" : "UInt",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Double",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Char",
+            "isSelected": false,
+            "isCorrect": true
+            
+          },
+          {
+            "title" : "Optional",
+            "isSelected": false,
+            "isCorrect": false
+            
+          }
+        ]
+    },
+    {
+        "id": "9",
+        "title": "Which Of The Following Is Incorrect Value Type Of The Swift?",
+        "answers" : [
+          {
+            "title" : "Double",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Character",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "Enum",
+            "isSelected": false,
+            "isCorrect": false
+          },
+          {
+            "title" : "Class",
+            "isSelected": false,
+            "isCorrect": true
+          }
+        ]
+    },
+    {
+        "id": "10",
+        "title": "Which Of The Following Framework Is Not Used In IOS ?",
+        "answers" : [
+          {
+            "title" : "UIKit Framework",
+            "isSelected": false,
+            "isCorrect": false
+          },
+          {
+            "title" : "AppKit Framework",
+            "isSelected": false,
+            "isCorrect": true
+          },
+          {
+            "title" : "Foundation Framework",
+            "isSelected": false,
+            "isCorrect": false
+            
+          },
+          {
+            "title" : "CoreMotion Framework",
+            "isSelected": false,
+            "isCorrect": false
+          }
+        ]
+    }
+  ]
+  
+}
+
